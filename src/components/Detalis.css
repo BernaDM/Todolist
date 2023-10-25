@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.button-voltar {
+    width: 30%;
+    margin-top: 10px;
+}
+
+.detalis-container {
+    background-color: #444;
+    margin: 15px 0;
+    padding: 15px 20px;
+    display: flex;
+    flex-direction: column;
+    color: #eee;
+    border-radius: 5px;
+}
+
+.detalis-container h2 {
+    margin-bottom: 5px;
+    color: chartreuse;
+}
